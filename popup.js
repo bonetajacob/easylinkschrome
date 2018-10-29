@@ -1,4 +1,6 @@
 // Future JavaScript will go here
+import { config } from './config'
+
 var weather;
 function setup() {
   createCanvas(400,200);
