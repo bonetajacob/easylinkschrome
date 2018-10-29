@@ -1,4 +1,6 @@
 i would like to create a extension that suggests products to purchase via affiliate platform like shareasale and deliver those products during a specific event or holiday as a reminder to purchase something while browsing if you forgot a holiday. 
 
+This should add a cookie to each session to try and close the affiliation loop.
+
 Userstory:
 Janet's browsing multiple sites when she decides to order pizza. She goes through the process of choosing and finally lands on the checkout page. ReminderProgram notifies Janet that mothers day is only a few days away and recommends a few products to choose from to add to her pizza cart. Using the same information she uses in the previous checkout she is able to purchase the product using the same billing, shipping, and personal information. Janet's mom gets her gift and loves her more than her sibilings. The End.
