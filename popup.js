@@ -1,5 +1,5 @@
 // Future JavaScript will go here
-import { config } from './config'
+import { config } from './config';
 
 var weather;
 function setup() {
